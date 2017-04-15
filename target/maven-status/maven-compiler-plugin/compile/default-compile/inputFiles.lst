@@ -1,0 +1,11 @@
+/Users/AimeTPGM/Programming/SpringProject/ReviewService/src/main/java/database/mysql/MySQLDBMain.java
+/Users/AimeTPGM/Programming/SpringProject/ReviewService/src/main/java/database/dao/ReviewDAO.java
+/Users/AimeTPGM/Programming/SpringProject/ReviewService/src/main/java/main/ApplicationConfig.java
+/Users/AimeTPGM/Programming/SpringProject/ReviewService/src/main/java/main/rest/ReviewRest.java
+/Users/AimeTPGM/Programming/SpringProject/ReviewService/src/main/java/database/dao/DatabaseModel.java
+/Users/AimeTPGM/Programming/SpringProject/ReviewService/src/main/java/database/mongodb/MongoDBMain.java
+/Users/AimeTPGM/Programming/SpringProject/ReviewService/src/main/java/database/mysql/ReviewDAOImpl.java
+/Users/AimeTPGM/Programming/SpringProject/ReviewService/src/main/java/main/SimpleCORSFilter.java
+/Users/AimeTPGM/Programming/SpringProject/ReviewService/src/main/java/main/model/Review.java
+/Users/AimeTPGM/Programming/SpringProject/ReviewService/src/main/java/main/Application.java
+/Users/AimeTPGM/Programming/SpringProject/ReviewService/src/main/java/database/mongodb/ReviewDAOImpl.java
