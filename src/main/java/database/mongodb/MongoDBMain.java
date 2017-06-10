@@ -13,7 +13,7 @@ public class MongoDBMain implements DatabaseModel{
 	 
     private static final String DB_NAME = "reviewtest";
     private static final String COLLECTION = "reviewtestonly";
-    private static final String MONGO_HOST = "210.121.158.165";
+    private static final String MONGO_HOST = "210.121.158.168";
     private static final int MONGO_PORT = 27017;
     private static MongoClient mongo;
     private ClassPathXmlApplicationContext ctx = null;
